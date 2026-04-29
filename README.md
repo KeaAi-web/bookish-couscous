@@ -1,2 +1,2 @@
-# bookish-couscous
+# my first 
 learning JavaScript 
